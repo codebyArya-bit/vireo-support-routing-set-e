@@ -1,0 +1,190 @@
+{
+  "data_kind": "supplied_vireo_pack",
+  "window": "Jan 2025 - Jun 2026 (creation month, IST)",
+  "tickets": 11641,
+  "completed": 11064,
+  "initial_teams": {
+    "Email Frontline": 1807,
+    "Logistics": 1905,
+    "Voice Frontline": 900,
+    "Chat Frontline": 3030,
+    "Billing": 2425,
+    "Escalations & Warranty": 525,
+    "Returns Desk": 1049
+  },
+  "recorded_agent_teams": {
+    "Email Frontline": 1658,
+    "Logistics": 2574,
+    "Voice Frontline": 766,
+    "Chat Frontline": 3078,
+    "Billing": 1798,
+    "Returns Desk": 1117,
+    "Escalations & Warranty": 650
+  },
+  "intake_categories": {
+    "Needs review": 4403,
+    "Delivery & Shipping": 2007,
+    "Charging & Battery": 578,
+    "Returns & Refunds": 924,
+    "Account & Login": 213,
+    "Warranty & Repair": 271,
+    "Billing & Payments": 1172,
+    "Audio Quality": 295,
+    "Product Enquiry": 291,
+    "App & Firmware": 471,
+    "Cancellation & Order Changes": 509,
+    "Connectivity": 451,
+    "Hardware & Controls": 56
+  },
+  "retrospective_categories": {
+    "Needs review": 1729,
+    "Delivery & Shipping": 2579,
+    "Charging & Battery": 788,
+    "Product Enquiry": 627,
+    "Returns & Refunds": 1114,
+    "App & Firmware": 636,
+    "Account & Login": 355,
+    "Warranty & Repair": 305,
+    "Billing & Payments": 1486,
+    "Audio Quality": 472,
+    "Connectivity": 881,
+    "Cancellation & Order Changes": 603,
+    "Hardware & Controls": 66
+  },
+  "diagnostics": {
+    "raw_rows": 11780,
+    "outside_window": 139,
+    "exact_event_duplicate_groups": 0,
+    "legacy_resolution_corrected": 3720,
+    "unknown_transfers": 3913,
+    "missing_order_id": 3969,
+    "opening_closing_disagreement": 171
+  },
+  "business_case": {
+    "opportunities": 77,
+    "quarter_tickets": 2364,
+    "opportunity_rate": 0.03257191201353638,
+    "avoidance_assumption": 0.5,
+    "transfer_cost_inr": 305,
+    "observed_quarter_target_inr": 11742.5,
+    "vireo_weekly_tickets_assumption": 650,
+    "at_vireo_quarter_tickets": 8450,
+    "at_vireo_quarter_target_inr": 41972.98011844332,
+    "observed_quarter_full_potential_inr": 23485,
+    "billing_q2_tickets": 450,
+    "period": "2026-04-01 to 2026-06-30",
+    "eligible_definition": "Q2 current-system completed tickets: initial Billing, unambiguous opening-text Delivery, recorded Logistics resolver, >=1 known transfer. One avoided hand-off per eligible ticket.",
+    "sensitivity": [
+      {
+        "avoidance": 0.25,
+        "observed_quarter_inr": 5871.25,
+        "at_vireo_quarter_inr": 20986.49005922166
+      },
+      {
+        "avoidance": 0.5,
+        "observed_quarter_inr": 11742.5,
+        "at_vireo_quarter_inr": 41972.98011844332
+      },
+      {
+        "avoidance": 0.75,
+        "observed_quarter_inr": 17613.75,
+        "at_vireo_quarter_inr": 62959.47017766498
+      }
+    ],
+    "billing_opportunity_share": 0.1711111111111111
+  },
+  "team_stats": [
+    {
+      "team": "Billing",
+      "recorded_agent_tickets": 1798,
+      "completed": 1719,
+      "resolution_time_n": 1719,
+      "median_resolution_hours": 1.22,
+      "csat_n": 776,
+      "csat_mean": 3.41,
+      "note": "Resolution elapsed time includes customer/courier waiting; not agent handle hours. Tier 2 is not comparable to Tier 1."
+    },
+    {
+      "team": "Chat Frontline",
+      "recorded_agent_tickets": 3078,
+      "completed": 2924,
+      "resolution_time_n": 2924,
+      "median_resolution_hours": 0.58,
+      "csat_n": 1385,
+      "csat_mean": 3.66,
+      "note": "Resolution elapsed time includes customer/courier waiting; not agent handle hours. Tier 2 is not comparable to Tier 1."
+    },
+    {
+      "team": "Email Frontline",
+      "recorded_agent_tickets": 1658,
+      "completed": 1569,
+      "resolution_time_n": 1569,
+      "median_resolution_hours": 2.75,
+      "csat_n": 730,
+      "csat_mean": 3.6,
+      "note": "Resolution elapsed time includes customer/courier waiting; not agent handle hours. Tier 2 is not comparable to Tier 1."
+    },
+    {
+      "team": "Escalations & Warranty",
+      "recorded_agent_tickets": 650,
+      "completed": 623,
+      "resolution_time_n": 623,
+      "median_resolution_hours": 122.42,
+      "csat_n": 285,
+      "csat_mean": 3.26,
+      "note": "Resolution elapsed time includes customer/courier waiting; not agent handle hours. Tier 2 is not comparable to Tier 1."
+    },
+    {
+      "team": "Logistics",
+      "recorded_agent_tickets": 2574,
+      "completed": 2451,
+      "resolution_time_n": 2451,
+      "median_resolution_hours": 26.03,
+      "csat_n": 1221,
+      "csat_mean": 2.89,
+      "note": "Resolution elapsed time includes customer/courier waiting; not agent handle hours. Tier 2 is not comparable to Tier 1."
+    },
+    {
+      "team": "Returns Desk",
+      "recorded_agent_tickets": 1117,
+      "completed": 1054,
+      "resolution_time_n": 1054,
+      "median_resolution_hours": 32.38,
+      "csat_n": 526,
+      "csat_mean": 3.35,
+      "note": "Resolution elapsed time includes customer/courier waiting; not agent handle hours. Tier 2 is not comparable to Tier 1."
+    },
+    {
+      "team": "Voice Frontline",
+      "recorded_agent_tickets": 766,
+      "completed": 724,
+      "resolution_time_n": 724,
+      "median_resolution_hours": 0.93,
+      "csat_n": 365,
+      "csat_mean": 3.67,
+      "note": "Resolution elapsed time includes customer/courier waiting; not agent handle hours. Tier 2 is not comparable to Tier 1."
+    }
+  ],
+  "sla": {
+    "first_response_breaches": 1292,
+    "valid_first_response_n": 11641,
+    "credit_eligible_completed_breaches": 1235,
+    "policy_credit_exposure_inr": 432250,
+    "note": "Policy exposure, not reconciled issued cash or incremental routing savings. Attribution to initial queue, not resolving agent."
+  },
+  "classifier": {
+    "type": "TF-IDF nearest synthetic example; word, word-pair and character-trigram features",
+    "examples": 55,
+    "score_threshold": 0.27,
+    "margin_threshold": 0.035,
+    "scores_are_probabilities": false
+  },
+  "input_sha256": {
+    "tickets.csv": "c5dbf82e9108798c127dd0beaf8d02bb67a5d493edc726e225598cb753394821",
+    "agents.csv": "f8fb88db5b336f7d602498cde42d9bde6343fb423699711b49c3b929fd01d068",
+    "products.csv": "e81b4a60e0d3b37fcb9580fe5b0221667541c3fe38beff11e0ee37a3fd0a48d8",
+    "orders.csv": "c83a1187934ddb8c7b30fcb6e3ea78646f2e0fc3acefe91ae1e45983d1c4617b",
+    "customers.csv": "c0a3a55620ec4aa472a2c0d60d086fa0a6e32c2a5107e80f5689078d825c75bf"
+  },
+  "run_seconds": 9.804
+}

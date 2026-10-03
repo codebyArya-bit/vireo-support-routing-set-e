@@ -1,0 +1,6 @@
+agent_id,name,site,team,shift,tier,from_date,to_date
+DEMO-A0,Synthetic Agent,Bengaluru,Billing,Morning,1,2025-01-01,
+DEMO-A1,Synthetic Agent,Bengaluru,Chat Frontline,Morning,1,2025-01-01,
+DEMO-A2,Synthetic Agent,Bengaluru,Escalations & Warranty,Morning,2,2025-01-01,
+DEMO-A3,Synthetic Agent,Bengaluru,Logistics,Morning,1,2025-01-01,
+DEMO-A4,Synthetic Agent,Bengaluru,Returns Desk,Morning,1,2025-01-01,

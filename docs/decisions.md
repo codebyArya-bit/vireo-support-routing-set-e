@@ -1,0 +1,12 @@
+# Decisions and deliberate scope
+
+1. Read the email thread before choosing features. Billing's 22% claim is initial routing, not issue ownership. Chat Frontline is larger even on raw counts. The supplied period contains 139 earlier records; scoped Billing share is 20.83%, not an exact reproduction of the email's 22%.
+2. Preserve the requested monthly charts but push back on “biggest queue gets two hires”. Logistics recorded-agent volume is 2,574 vs Billing 1,798; Logistics median elapsed resolution is 26.03h vs Billing 1.22h. These are warning signals, not capacity proof. No handling-time or productive-hours data supports an optimal headcount allocation.
+3. Recommend a process pilot before the Rs 9 lakh/year two-hire commitment. Logistics should be first in a capacity investigation, but the tool does not award the hires automatically. Returns Desk is intentionally a refund-processing team, not suspicious simply for handling refunds.
+4. Model input excludes existing tags, initial/resolving team and refund codes. Synthetic examples are authored from the taxonomy and pre-holdout exploration. The first viewed 100 records are excluded from the later frozen-model sample; they are not held-out accuracy evidence.
+5. Preserve uncertainty. No post-holdout tuning to turn the 39 review cases into a flattering accuracy number. A live ticket cannot use an agent's eventual closing note.
+6. Scope the financial case to known Q2 hand-offs with opening-text delivery evidence. Count one avoided transfer/ticket, not all hand-offs. Scale to 650/week only as an explicit scenario; the export itself averages much less.
+7. Legacy UTC resolution correction follows policy; missing transfer history is unknown. Refund-unit ambiguity remains unresolved rather than applying an invented ×100 or ÷100 correction. No financial claim depends on it.
+8. Deliberately omit live helpdesk integration, automatic routing, authentication/hosting, LLM API calls, exhaustive fuzzy deduplication, same-issue FCR measurement, shift-level staffing optimisation and warranty/replacement fraud detection. Those need human adjudication or inputs absent here. Reliable monthly totals, conservative transfer arithmetic and one explicit review path take priority.
+9. No original submission-form.md was attached. Recreate the visible questions, mark final factual fields as pending, and do not represent that draft as a completed submission.
+10. Raw data is retained only in a private bundle. Public repository gets source, authored synthetic demo inputs and aggregate outputs.

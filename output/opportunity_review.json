@@ -1,0 +1,8 @@
+{
+  "sample_size": 77,
+  "scope": "Census of 77 eligible Q2 Billing-to-Logistics delivery opportunities",
+  "reviewer": "Same ChatGPT/Codex assistant; not independent human adjudication",
+  "reviewed_as_delivery": 77,
+  "non_delivery": 0,
+  "limitations": "Selected on model acceptance and team/transfer evidence. This does not estimate recall or population classifier error. Opening text and notes reviewed; savings remain a pilot assumption."
+}

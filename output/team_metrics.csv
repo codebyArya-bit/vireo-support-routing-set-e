@@ -1,0 +1,8 @@
+team,recorded_agent_tickets,completed,resolution_time_n,median_resolution_hours,csat_n,csat_mean,note
+Billing,1798,1719,1719,1.22,776,3.41,Resolution elapsed time includes customer/courier waiting; not agent handle hours. Tier 2 is not comparable to Tier 1.
+Chat Frontline,3078,2924,2924,0.58,1385,3.66,Resolution elapsed time includes customer/courier waiting; not agent handle hours. Tier 2 is not comparable to Tier 1.
+Email Frontline,1658,1569,1569,2.75,730,3.6,Resolution elapsed time includes customer/courier waiting; not agent handle hours. Tier 2 is not comparable to Tier 1.
+Escalations & Warranty,650,623,623,122.42,285,3.26,Resolution elapsed time includes customer/courier waiting; not agent handle hours. Tier 2 is not comparable to Tier 1.
+Logistics,2574,2451,2451,26.03,1221,2.89,Resolution elapsed time includes customer/courier waiting; not agent handle hours. Tier 2 is not comparable to Tier 1.
+Returns Desk,1117,1054,1054,32.38,526,3.35,Resolution elapsed time includes customer/courier waiting; not agent handle hours. Tier 2 is not comparable to Tier 1.
+Voice Frontline,766,724,724,0.93,365,3.67,Resolution elapsed time includes customer/courier waiting; not agent handle hours. Tier 2 is not comparable to Tier 1.

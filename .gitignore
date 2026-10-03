@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+private-data/
+private-output/
+data/
+demo-output/
+*_PRIVATE.*
+output/*-log.txt

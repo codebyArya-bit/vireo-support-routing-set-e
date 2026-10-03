@@ -1,0 +1,2 @@
+order_id,customer_id,sku,order_date,channel,qty,order_value_inr,lot_code
+DEMO-O1,DEMO-C1,DEMO-S1,2026-03-01,vireo.in,1,2500,DEMO

@@ -1,0 +1,37 @@
+[
+  {
+    "original": "96501d0c-a534-496f-9468-f508e7324c1b-support-policy.pdf",
+    "copy": "96501d0c-a534-496f-9468-f508e7324c1b-support-policy(1).pdf",
+    "byte_identical": true
+  },
+  {
+    "original": "61113d4b-ee13-4ce3-9b1c-bd7f6e51ecd2-orders.csv",
+    "copy": "61113d4b-ee13-4ce3-9b1c-bd7f6e51ecd2-orders(1).csv",
+    "byte_identical": true
+  },
+  {
+    "original": "99ca137e-844d-47d7-8ce8-bf60ce272ba3-tickets.csv",
+    "copy": "99ca137e-844d-47d7-8ce8-bf60ce272ba3-tickets(1).csv",
+    "byte_identical": true
+  },
+  {
+    "original": "81d39148-7b2f-4f14-9123-110d488b953c-customers.csv",
+    "copy": "81d39148-7b2f-4f14-9123-110d488b953c-customers(1).csv",
+    "byte_identical": true
+  },
+  {
+    "original": "cba05b18-e0b4-4655-80c8-f615a93148eb-README.txt",
+    "copy": "cba05b18-e0b4-4655-80c8-f615a93148eb-README(1).txt",
+    "byte_identical": true
+  },
+  {
+    "original": "69f9276d-b40b-4596-b0bc-5ffde23d2c20-agents.csv",
+    "copy": "69f9276d-b40b-4596-b0bc-5ffde23d2c20-agents(1).csv",
+    "byte_identical": true
+  },
+  {
+    "original": "ae47ec0e-9121-4cc5-9261-f8da501eea96-products.csv",
+    "copy": "ae47ec0e-9121-4cc5-9261-f8da501eea96-products(1).csv",
+    "byte_identical": true
+  }
+]

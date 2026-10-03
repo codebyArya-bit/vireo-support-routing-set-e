@@ -1,0 +1,915 @@
+month,basis,category,tickets
+2025-01,Exported tag,Account & Login,5
+2025-01,Exported tag,App & Firmware,17
+2025-01,Exported tag,Audio Quality,21
+2025-01,Exported tag,Billing & Payments,71
+2025-01,Exported tag,Charging & Battery,27
+2025-01,Exported tag,Connectivity,27
+2025-01,Exported tag,Delivery & Shipping,52
+2025-01,Exported tag,Other,42
+2025-01,Exported tag,Product Enquiry,16
+2025-01,Exported tag,Returns & Refunds,26
+2025-01,Exported tag,Warranty & Repair,10
+2025-01,First assigned team,Billing,71
+2025-01,First assigned team,Chat Frontline,84
+2025-01,First assigned team,Email Frontline,45
+2025-01,First assigned team,Escalations & Warranty,10
+2025-01,First assigned team,Logistics,52
+2025-01,First assigned team,Returns Desk,26
+2025-01,First assigned team,Voice Frontline,26
+2025-01,Opening + closing text,Account & Login,7
+2025-01,Opening + closing text,App & Firmware,16
+2025-01,Opening + closing text,Audio Quality,16
+2025-01,Opening + closing text,Billing & Payments,42
+2025-01,Opening + closing text,Cancellation & Order Changes,18
+2025-01,Opening + closing text,Charging & Battery,19
+2025-01,Opening + closing text,Connectivity,22
+2025-01,Opening + closing text,Delivery & Shipping,79
+2025-01,Opening + closing text,Needs review,45
+2025-01,Opening + closing text,Product Enquiry,15
+2025-01,Opening + closing text,Returns & Refunds,29
+2025-01,Opening + closing text,Warranty & Repair,6
+2025-01,Opening text,Account & Login,3
+2025-01,Opening text,App & Firmware,13
+2025-01,Opening text,Audio Quality,10
+2025-01,Opening text,Billing & Payments,30
+2025-01,Opening text,Cancellation & Order Changes,17
+2025-01,Opening text,Charging & Battery,12
+2025-01,Opening text,Connectivity,13
+2025-01,Opening text,Delivery & Shipping,67
+2025-01,Opening text,Needs review,119
+2025-01,Opening text,Product Enquiry,7
+2025-01,Opening text,Returns & Refunds,18
+2025-01,Opening text,Warranty & Repair,5
+2025-01,Recorded agent team,Billing,53
+2025-01,Recorded agent team,Chat Frontline,82
+2025-01,Recorded agent team,Email Frontline,41
+2025-01,Recorded agent team,Escalations & Warranty,13
+2025-01,Recorded agent team,Logistics,73
+2025-01,Recorded agent team,Returns Desk,28
+2025-01,Recorded agent team,Voice Frontline,24
+2025-02,Exported tag,Account & Login,17
+2025-02,Exported tag,App & Firmware,20
+2025-02,Exported tag,Audio Quality,19
+2025-02,Exported tag,Billing & Payments,76
+2025-02,Exported tag,Charging & Battery,19
+2025-02,Exported tag,Connectivity,18
+2025-02,Exported tag,Delivery & Shipping,69
+2025-02,Exported tag,Other,52
+2025-02,Exported tag,Product Enquiry,30
+2025-02,Exported tag,Returns & Refunds,33
+2025-02,Exported tag,Warranty & Repair,15
+2025-02,First assigned team,Billing,76
+2025-02,First assigned team,Chat Frontline,95
+2025-02,First assigned team,Email Frontline,57
+2025-02,First assigned team,Escalations & Warranty,15
+2025-02,First assigned team,Logistics,69
+2025-02,First assigned team,Returns Desk,33
+2025-02,First assigned team,Voice Frontline,23
+2025-02,Opening + closing text,Account & Login,18
+2025-02,Opening + closing text,App & Firmware,13
+2025-02,Opening + closing text,Audio Quality,15
+2025-02,Opening + closing text,Billing & Payments,51
+2025-02,Opening + closing text,Cancellation & Order Changes,24
+2025-02,Opening + closing text,Charging & Battery,21
+2025-02,Opening + closing text,Connectivity,12
+2025-02,Opening + closing text,Delivery & Shipping,78
+2025-02,Opening + closing text,Hardware & Controls,2
+2025-02,Opening + closing text,Needs review,58
+2025-02,Opening + closing text,Product Enquiry,30
+2025-02,Opening + closing text,Returns & Refunds,34
+2025-02,Opening + closing text,Warranty & Repair,12
+2025-02,Opening text,Account & Login,6
+2025-02,Opening text,App & Firmware,9
+2025-02,Opening text,Audio Quality,7
+2025-02,Opening text,Billing & Payments,46
+2025-02,Opening text,Cancellation & Order Changes,22
+2025-02,Opening text,Charging & Battery,16
+2025-02,Opening text,Connectivity,8
+2025-02,Opening text,Delivery & Shipping,62
+2025-02,Opening text,Hardware & Controls,2
+2025-02,Opening text,Needs review,137
+2025-02,Opening text,Product Enquiry,15
+2025-02,Opening text,Returns & Refunds,28
+2025-02,Opening text,Warranty & Repair,10
+2025-02,Recorded agent team,Billing,56
+2025-02,Recorded agent team,Chat Frontline,100
+2025-02,Recorded agent team,Email Frontline,49
+2025-02,Recorded agent team,Escalations & Warranty,18
+2025-02,Recorded agent team,Logistics,94
+2025-02,Recorded agent team,Returns Desk,32
+2025-02,Recorded agent team,Voice Frontline,19
+2025-03,Exported tag,Account & Login,13
+2025-03,Exported tag,App & Firmware,23
+2025-03,Exported tag,Audio Quality,24
+2025-03,Exported tag,Billing & Payments,104
+2025-03,Exported tag,Charging & Battery,29
+2025-03,Exported tag,Connectivity,38
+2025-03,Exported tag,Delivery & Shipping,74
+2025-03,Exported tag,Other,62
+2025-03,Exported tag,Product Enquiry,29
+2025-03,Exported tag,Returns & Refunds,46
+2025-03,Exported tag,Warranty & Repair,20
+2025-03,First assigned team,Billing,104
+2025-03,First assigned team,Chat Frontline,120
+2025-03,First assigned team,Email Frontline,61
+2025-03,First assigned team,Escalations & Warranty,20
+2025-03,First assigned team,Logistics,74
+2025-03,First assigned team,Returns Desk,46
+2025-03,First assigned team,Voice Frontline,37
+2025-03,Opening + closing text,Account & Login,10
+2025-03,Opening + closing text,App & Firmware,22
+2025-03,Opening + closing text,Audio Quality,19
+2025-03,Opening + closing text,Billing & Payments,69
+2025-03,Opening + closing text,Cancellation & Order Changes,28
+2025-03,Opening + closing text,Charging & Battery,31
+2025-03,Opening + closing text,Connectivity,33
+2025-03,Opening + closing text,Delivery & Shipping,104
+2025-03,Opening + closing text,Hardware & Controls,2
+2025-03,Opening + closing text,Needs review,49
+2025-03,Opening + closing text,Product Enquiry,29
+2025-03,Opening + closing text,Returns & Refunds,51
+2025-03,Opening + closing text,Warranty & Repair,15
+2025-03,Opening text,Account & Login,5
+2025-03,Opening text,App & Firmware,13
+2025-03,Opening text,Audio Quality,12
+2025-03,Opening text,Billing & Payments,56
+2025-03,Opening text,Cancellation & Order Changes,26
+2025-03,Opening text,Charging & Battery,21
+2025-03,Opening text,Connectivity,17
+2025-03,Opening text,Delivery & Shipping,81
+2025-03,Opening text,Hardware & Controls,2
+2025-03,Opening text,Needs review,163
+2025-03,Opening text,Product Enquiry,12
+2025-03,Opening text,Returns & Refunds,41
+2025-03,Opening text,Warranty & Repair,13
+2025-03,Recorded agent team,Billing,80
+2025-03,Recorded agent team,Chat Frontline,120
+2025-03,Recorded agent team,Email Frontline,57
+2025-03,Recorded agent team,Escalations & Warranty,24
+2025-03,Recorded agent team,Logistics,104
+2025-03,Recorded agent team,Returns Desk,44
+2025-03,Recorded agent team,Voice Frontline,33
+2025-04,Exported tag,Account & Login,15
+2025-04,Exported tag,App & Firmware,22
+2025-04,Exported tag,Audio Quality,18
+2025-04,Exported tag,Billing & Payments,104
+2025-04,Exported tag,Charging & Battery,34
+2025-04,Exported tag,Connectivity,31
+2025-04,Exported tag,Delivery & Shipping,77
+2025-04,Exported tag,Other,58
+2025-04,Exported tag,Product Enquiry,24
+2025-04,Exported tag,Returns & Refunds,44
+2025-04,Exported tag,Warranty & Repair,22
+2025-04,First assigned team,Billing,104
+2025-04,First assigned team,Chat Frontline,101
+2025-04,First assigned team,Email Frontline,74
+2025-04,First assigned team,Escalations & Warranty,22
+2025-04,First assigned team,Logistics,77
+2025-04,First assigned team,Returns Desk,44
+2025-04,First assigned team,Voice Frontline,27
+2025-04,Opening + closing text,Account & Login,10
+2025-04,Opening + closing text,App & Firmware,19
+2025-04,Opening + closing text,Audio Quality,16
+2025-04,Opening + closing text,Billing & Payments,71
+2025-04,Opening + closing text,Cancellation & Order Changes,20
+2025-04,Opening + closing text,Charging & Battery,34
+2025-04,Opening + closing text,Connectivity,27
+2025-04,Opening + closing text,Delivery & Shipping,101
+2025-04,Opening + closing text,Hardware & Controls,3
+2025-04,Opening + closing text,Needs review,74
+2025-04,Opening + closing text,Product Enquiry,26
+2025-04,Opening + closing text,Returns & Refunds,41
+2025-04,Opening + closing text,Warranty & Repair,7
+2025-04,Opening text,Account & Login,9
+2025-04,Opening text,App & Firmware,17
+2025-04,Opening text,Audio Quality,9
+2025-04,Opening text,Billing & Payments,57
+2025-04,Opening text,Cancellation & Order Changes,11
+2025-04,Opening text,Charging & Battery,24
+2025-04,Opening text,Connectivity,11
+2025-04,Opening text,Delivery & Shipping,78
+2025-04,Opening text,Hardware & Controls,3
+2025-04,Opening text,Needs review,182
+2025-04,Opening text,Product Enquiry,10
+2025-04,Opening text,Returns & Refunds,34
+2025-04,Opening text,Warranty & Repair,4
+2025-04,Recorded agent team,Billing,75
+2025-04,Recorded agent team,Chat Frontline,98
+2025-04,Recorded agent team,Email Frontline,77
+2025-04,Recorded agent team,Escalations & Warranty,29
+2025-04,Recorded agent team,Logistics,110
+2025-04,Recorded agent team,Returns Desk,40
+2025-04,Recorded agent team,Voice Frontline,20
+2025-05,Exported tag,Account & Login,11
+2025-05,Exported tag,App & Firmware,27
+2025-05,Exported tag,Audio Quality,18
+2025-05,Exported tag,Billing & Payments,83
+2025-05,Exported tag,Charging & Battery,25
+2025-05,Exported tag,Connectivity,40
+2025-05,Exported tag,Delivery & Shipping,72
+2025-05,Exported tag,Other,62
+2025-05,Exported tag,Product Enquiry,19
+2025-05,Exported tag,Returns & Refunds,42
+2025-05,Exported tag,Warranty & Repair,25
+2025-05,First assigned team,Billing,83
+2025-05,First assigned team,Chat Frontline,106
+2025-05,First assigned team,Email Frontline,55
+2025-05,First assigned team,Escalations & Warranty,25
+2025-05,First assigned team,Logistics,72
+2025-05,First assigned team,Returns Desk,42
+2025-05,First assigned team,Voice Frontline,41
+2025-05,Opening + closing text,Account & Login,13
+2025-05,Opening + closing text,App & Firmware,21
+2025-05,Opening + closing text,Audio Quality,17
+2025-05,Opening + closing text,Billing & Payments,44
+2025-05,Opening + closing text,Cancellation & Order Changes,26
+2025-05,Opening + closing text,Charging & Battery,28
+2025-05,Opening + closing text,Connectivity,35
+2025-05,Opening + closing text,Delivery & Shipping,95
+2025-05,Opening + closing text,Hardware & Controls,1
+2025-05,Opening + closing text,Needs review,68
+2025-05,Opening + closing text,Product Enquiry,19
+2025-05,Opening + closing text,Returns & Refunds,42
+2025-05,Opening + closing text,Warranty & Repair,15
+2025-05,Opening text,Account & Login,8
+2025-05,Opening text,App & Firmware,17
+2025-05,Opening text,Audio Quality,10
+2025-05,Opening text,Billing & Payments,34
+2025-05,Opening text,Cancellation & Order Changes,23
+2025-05,Opening text,Charging & Battery,19
+2025-05,Opening text,Connectivity,19
+2025-05,Opening text,Delivery & Shipping,62
+2025-05,Opening text,Needs review,175
+2025-05,Opening text,Product Enquiry,11
+2025-05,Opening text,Returns & Refunds,32
+2025-05,Opening text,Warranty & Repair,14
+2025-05,Recorded agent team,Billing,66
+2025-05,Recorded agent team,Chat Frontline,113
+2025-05,Recorded agent team,Email Frontline,49
+2025-05,Recorded agent team,Escalations & Warranty,32
+2025-05,Recorded agent team,Logistics,89
+2025-05,Recorded agent team,Returns Desk,40
+2025-05,Recorded agent team,Voice Frontline,35
+2025-06,Exported tag,Account & Login,17
+2025-06,Exported tag,App & Firmware,26
+2025-06,Exported tag,Audio Quality,23
+2025-06,Exported tag,Billing & Payments,98
+2025-06,Exported tag,Charging & Battery,18
+2025-06,Exported tag,Connectivity,40
+2025-06,Exported tag,Delivery & Shipping,80
+2025-06,Exported tag,Other,60
+2025-06,Exported tag,Product Enquiry,19
+2025-06,Exported tag,Returns & Refunds,42
+2025-06,Exported tag,Warranty & Repair,16
+2025-06,First assigned team,Billing,98
+2025-06,First assigned team,Chat Frontline,102
+2025-06,First assigned team,Email Frontline,66
+2025-06,First assigned team,Escalations & Warranty,16
+2025-06,First assigned team,Logistics,80
+2025-06,First assigned team,Returns Desk,42
+2025-06,First assigned team,Voice Frontline,35
+2025-06,Opening + closing text,Account & Login,16
+2025-06,Opening + closing text,App & Firmware,25
+2025-06,Opening + closing text,Audio Quality,19
+2025-06,Opening + closing text,Billing & Payments,57
+2025-06,Opening + closing text,Cancellation & Order Changes,25
+2025-06,Opening + closing text,Charging & Battery,18
+2025-06,Opening + closing text,Connectivity,32
+2025-06,Opening + closing text,Delivery & Shipping,100
+2025-06,Opening + closing text,Hardware & Controls,3
+2025-06,Opening + closing text,Needs review,69
+2025-06,Opening + closing text,Product Enquiry,16
+2025-06,Opening + closing text,Returns & Refunds,51
+2025-06,Opening + closing text,Warranty & Repair,8
+2025-06,Opening text,Account & Login,10
+2025-06,Opening text,App & Firmware,19
+2025-06,Opening text,Audio Quality,9
+2025-06,Opening text,Billing & Payments,49
+2025-06,Opening text,Cancellation & Order Changes,22
+2025-06,Opening text,Charging & Battery,12
+2025-06,Opening text,Connectivity,14
+2025-06,Opening text,Delivery & Shipping,73
+2025-06,Opening text,Hardware & Controls,3
+2025-06,Opening text,Needs review,173
+2025-06,Opening text,Product Enquiry,9
+2025-06,Opening text,Returns & Refunds,40
+2025-06,Opening text,Warranty & Repair,6
+2025-06,Recorded agent team,Billing,68
+2025-06,Recorded agent team,Chat Frontline,110
+2025-06,Recorded agent team,Email Frontline,54
+2025-06,Recorded agent team,Escalations & Warranty,20
+2025-06,Recorded agent team,Logistics,111
+2025-06,Recorded agent team,Returns Desk,45
+2025-06,Recorded agent team,Voice Frontline,31
+2025-07,Exported tag,Account & Login,12
+2025-07,Exported tag,App & Firmware,31
+2025-07,Exported tag,Audio Quality,17
+2025-07,Exported tag,Billing & Payments,97
+2025-07,Exported tag,Charging & Battery,35
+2025-07,Exported tag,Connectivity,44
+2025-07,Exported tag,Delivery & Shipping,79
+2025-07,Exported tag,Other,72
+2025-07,Exported tag,Product Enquiry,21
+2025-07,Exported tag,Returns & Refunds,37
+2025-07,Exported tag,Warranty & Repair,17
+2025-07,First assigned team,Billing,97
+2025-07,First assigned team,Chat Frontline,112
+2025-07,First assigned team,Email Frontline,82
+2025-07,First assigned team,Escalations & Warranty,17
+2025-07,First assigned team,Logistics,79
+2025-07,First assigned team,Returns Desk,37
+2025-07,First assigned team,Voice Frontline,38
+2025-07,Opening + closing text,Account & Login,15
+2025-07,Opening + closing text,App & Firmware,33
+2025-07,Opening + closing text,Audio Quality,13
+2025-07,Opening + closing text,Billing & Payments,49
+2025-07,Opening + closing text,Cancellation & Order Changes,40
+2025-07,Opening + closing text,Charging & Battery,33
+2025-07,Opening + closing text,Connectivity,37
+2025-07,Opening + closing text,Delivery & Shipping,96
+2025-07,Opening + closing text,Hardware & Controls,6
+2025-07,Opening + closing text,Needs review,59
+2025-07,Opening + closing text,Product Enquiry,24
+2025-07,Opening + closing text,Returns & Refunds,50
+2025-07,Opening + closing text,Warranty & Repair,7
+2025-07,Opening text,Account & Login,7
+2025-07,Opening text,App & Firmware,29
+2025-07,Opening text,Audio Quality,10
+2025-07,Opening text,Billing & Payments,36
+2025-07,Opening text,Cancellation & Order Changes,39
+2025-07,Opening text,Charging & Battery,27
+2025-07,Opening text,Connectivity,15
+2025-07,Opening text,Delivery & Shipping,77
+2025-07,Opening text,Hardware & Controls,6
+2025-07,Opening text,Needs review,163
+2025-07,Opening text,Product Enquiry,9
+2025-07,Opening text,Returns & Refunds,39
+2025-07,Opening text,Warranty & Repair,5
+2025-07,Recorded agent team,Billing,69
+2025-07,Recorded agent team,Chat Frontline,111
+2025-07,Recorded agent team,Email Frontline,73
+2025-07,Recorded agent team,Escalations & Warranty,22
+2025-07,Recorded agent team,Logistics,113
+2025-07,Recorded agent team,Returns Desk,40
+2025-07,Recorded agent team,Voice Frontline,34
+2025-08,Exported tag,Account & Login,27
+2025-08,Exported tag,App & Firmware,39
+2025-08,Exported tag,Audio Quality,32
+2025-08,Exported tag,Billing & Payments,162
+2025-08,Exported tag,Charging & Battery,46
+2025-08,Exported tag,Connectivity,54
+2025-08,Exported tag,Delivery & Shipping,122
+2025-08,Exported tag,Other,84
+2025-08,Exported tag,Product Enquiry,29
+2025-08,Exported tag,Returns & Refunds,75
+2025-08,Exported tag,Warranty & Repair,25
+2025-08,First assigned team,Billing,162
+2025-08,First assigned team,Chat Frontline,180
+2025-08,First assigned team,Email Frontline,87
+2025-08,First assigned team,Escalations & Warranty,25
+2025-08,First assigned team,Logistics,122
+2025-08,First assigned team,Returns Desk,75
+2025-08,First assigned team,Voice Frontline,44
+2025-08,Opening + closing text,Account & Login,21
+2025-08,Opening + closing text,App & Firmware,35
+2025-08,Opening + closing text,Audio Quality,21
+2025-08,Opening + closing text,Billing & Payments,96
+2025-08,Opening + closing text,Cancellation & Order Changes,28
+2025-08,Opening + closing text,Charging & Battery,47
+2025-08,Opening + closing text,Connectivity,45
+2025-08,Opening + closing text,Delivery & Shipping,174
+2025-08,Opening + closing text,Hardware & Controls,4
+2025-08,Opening + closing text,Needs review,104
+2025-08,Opening + closing text,Product Enquiry,29
+2025-08,Opening + closing text,Returns & Refunds,75
+2025-08,Opening + closing text,Warranty & Repair,16
+2025-08,Opening text,Account & Login,14
+2025-08,Opening text,App & Firmware,27
+2025-08,Opening text,Audio Quality,16
+2025-08,Opening text,Billing & Payments,78
+2025-08,Opening text,Cancellation & Order Changes,24
+2025-08,Opening text,Charging & Battery,30
+2025-08,Opening text,Connectivity,28
+2025-08,Opening text,Delivery & Shipping,136
+2025-08,Opening text,Hardware & Controls,4
+2025-08,Opening text,Needs review,237
+2025-08,Opening text,Product Enquiry,19
+2025-08,Opening text,Returns & Refunds,68
+2025-08,Opening text,Warranty & Repair,14
+2025-08,Recorded agent team,Billing,123
+2025-08,Recorded agent team,Chat Frontline,175
+2025-08,Recorded agent team,Email Frontline,92
+2025-08,Recorded agent team,Escalations & Warranty,29
+2025-08,Recorded agent team,Logistics,163
+2025-08,Recorded agent team,Returns Desk,74
+2025-08,Recorded agent team,Voice Frontline,39
+2025-09,Exported tag,Account & Login,25
+2025-09,Exported tag,App & Firmware,48
+2025-09,Exported tag,Audio Quality,29
+2025-09,Exported tag,Billing & Payments,143
+2025-09,Exported tag,Charging & Battery,48
+2025-09,Exported tag,Connectivity,48
+2025-09,Exported tag,Delivery & Shipping,103
+2025-09,Exported tag,Other,82
+2025-09,Exported tag,Product Enquiry,47
+2025-09,Exported tag,Returns & Refunds,70
+2025-09,Exported tag,Warranty & Repair,28
+2025-09,First assigned team,Billing,143
+2025-09,First assigned team,Chat Frontline,161
+2025-09,First assigned team,Email Frontline,110
+2025-09,First assigned team,Escalations & Warranty,28
+2025-09,First assigned team,Logistics,103
+2025-09,First assigned team,Returns Desk,70
+2025-09,First assigned team,Voice Frontline,56
+2025-09,Opening + closing text,Account & Login,22
+2025-09,Opening + closing text,App & Firmware,44
+2025-09,Opening + closing text,Audio Quality,21
+2025-09,Opening + closing text,Billing & Payments,79
+2025-09,Opening + closing text,Cancellation & Order Changes,28
+2025-09,Opening + closing text,Charging & Battery,40
+2025-09,Opening + closing text,Connectivity,46
+2025-09,Opening + closing text,Delivery & Shipping,164
+2025-09,Opening + closing text,Hardware & Controls,5
+2025-09,Opening + closing text,Needs review,99
+2025-09,Opening + closing text,Product Enquiry,44
+2025-09,Opening + closing text,Returns & Refunds,66
+2025-09,Opening + closing text,Warranty & Repair,13
+2025-09,Opening text,Account & Login,14
+2025-09,Opening text,App & Firmware,36
+2025-09,Opening text,Audio Quality,13
+2025-09,Opening text,Billing & Payments,54
+2025-09,Opening text,Cancellation & Order Changes,25
+2025-09,Opening text,Charging & Battery,26
+2025-09,Opening text,Connectivity,23
+2025-09,Opening text,Delivery & Shipping,132
+2025-09,Opening text,Hardware & Controls,4
+2025-09,Opening text,Needs review,254
+2025-09,Opening text,Product Enquiry,22
+2025-09,Opening text,Returns & Refunds,55
+2025-09,Opening text,Warranty & Repair,13
+2025-09,Recorded agent team,Billing,94
+2025-09,Recorded agent team,Chat Frontline,176
+2025-09,Recorded agent team,Email Frontline,90
+2025-09,Recorded agent team,Escalations & Warranty,36
+2025-09,Recorded agent team,Logistics,151
+2025-09,Recorded agent team,Returns Desk,82
+2025-09,Recorded agent team,Voice Frontline,42
+2025-10,Exported tag,Account & Login,22
+2025-10,Exported tag,App & Firmware,53
+2025-10,Exported tag,Audio Quality,38
+2025-10,Exported tag,Billing & Payments,198
+2025-10,Exported tag,Charging & Battery,35
+2025-10,Exported tag,Connectivity,58
+2025-10,Exported tag,Delivery & Shipping,148
+2025-10,Exported tag,Other,113
+2025-10,Exported tag,Product Enquiry,54
+2025-10,Exported tag,Returns & Refunds,85
+2025-10,Exported tag,Warranty & Repair,43
+2025-10,First assigned team,Billing,198
+2025-10,First assigned team,Chat Frontline,207
+2025-10,First assigned team,Email Frontline,120
+2025-10,First assigned team,Escalations & Warranty,43
+2025-10,First assigned team,Logistics,148
+2025-10,First assigned team,Returns Desk,85
+2025-10,First assigned team,Voice Frontline,46
+2025-10,Opening + closing text,Account & Login,24
+2025-10,Opening + closing text,App & Firmware,45
+2025-10,Opening + closing text,Audio Quality,31
+2025-10,Opening + closing text,Billing & Payments,131
+2025-10,Opening + closing text,Cancellation & Order Changes,35
+2025-10,Opening + closing text,Charging & Battery,42
+2025-10,Opening + closing text,Connectivity,49
+2025-10,Opening + closing text,Delivery & Shipping,207
+2025-10,Opening + closing text,Hardware & Controls,7
+2025-10,Opening + closing text,Needs review,112
+2025-10,Opening + closing text,Product Enquiry,56
+2025-10,Opening + closing text,Returns & Refunds,86
+2025-10,Opening + closing text,Warranty & Repair,22
+2025-10,Opening text,Account & Login,15
+2025-10,Opening text,App & Firmware,29
+2025-10,Opening text,Audio Quality,23
+2025-10,Opening text,Billing & Payments,99
+2025-10,Opening text,Cancellation & Order Changes,30
+2025-10,Opening text,Charging & Battery,31
+2025-10,Opening text,Connectivity,29
+2025-10,Opening text,Delivery & Shipping,159
+2025-10,Opening text,Hardware & Controls,5
+2025-10,Opening text,Needs review,314
+2025-10,Opening text,Product Enquiry,26
+2025-10,Opening text,Returns & Refunds,69
+2025-10,Opening text,Warranty & Repair,18
+2025-10,Recorded agent team,Billing,143
+2025-10,Recorded agent team,Chat Frontline,200
+2025-10,Recorded agent team,Email Frontline,117
+2025-10,Recorded agent team,Escalations & Warranty,57
+2025-10,Recorded agent team,Logistics,202
+2025-10,Recorded agent team,Returns Desk,85
+2025-10,Recorded agent team,Voice Frontline,43
+2025-11,Exported tag,Account & Login,29
+2025-11,Exported tag,App & Firmware,45
+2025-11,Exported tag,Audio Quality,41
+2025-11,Exported tag,Billing & Payments,219
+2025-11,Exported tag,Charging & Battery,54
+2025-11,Exported tag,Connectivity,70
+2025-11,Exported tag,Delivery & Shipping,157
+2025-11,Exported tag,Other,154
+2025-11,Exported tag,Product Enquiry,59
+2025-11,Exported tag,Returns & Refunds,82
+2025-11,Exported tag,Warranty & Repair,42
+2025-11,First assigned team,Billing,219
+2025-11,First assigned team,Chat Frontline,249
+2025-11,First assigned team,Email Frontline,131
+2025-11,First assigned team,Escalations & Warranty,42
+2025-11,First assigned team,Logistics,157
+2025-11,First assigned team,Returns Desk,82
+2025-11,First assigned team,Voice Frontline,72
+2025-11,Opening + closing text,Account & Login,23
+2025-11,Opening + closing text,App & Firmware,40
+2025-11,Opening + closing text,Audio Quality,34
+2025-11,Opening + closing text,Billing & Payments,127
+2025-11,Opening + closing text,Cancellation & Order Changes,53
+2025-11,Opening + closing text,Charging & Battery,51
+2025-11,Opening + closing text,Connectivity,72
+2025-11,Opening + closing text,Delivery & Shipping,222
+2025-11,Opening + closing text,Hardware & Controls,5
+2025-11,Opening + closing text,Needs review,141
+2025-11,Opening + closing text,Product Enquiry,66
+2025-11,Opening + closing text,Returns & Refunds,89
+2025-11,Opening + closing text,Warranty & Repair,29
+2025-11,Opening text,Account & Login,15
+2025-11,Opening text,App & Firmware,33
+2025-11,Opening text,Audio Quality,24
+2025-11,Opening text,Billing & Payments,100
+2025-11,Opening text,Cancellation & Order Changes,48
+2025-11,Opening text,Charging & Battery,41
+2025-11,Opening text,Connectivity,32
+2025-11,Opening text,Delivery & Shipping,174
+2025-11,Opening text,Hardware & Controls,4
+2025-11,Opening text,Needs review,345
+2025-11,Opening text,Product Enquiry,37
+2025-11,Opening text,Returns & Refunds,73
+2025-11,Opening text,Warranty & Repair,26
+2025-11,Recorded agent team,Billing,152
+2025-11,Recorded agent team,Chat Frontline,250
+2025-11,Recorded agent team,Email Frontline,118
+2025-11,Recorded agent team,Escalations & Warranty,52
+2025-11,Recorded agent team,Logistics,224
+2025-11,Recorded agent team,Returns Desk,96
+2025-11,Recorded agent team,Voice Frontline,60
+2025-12,Exported tag,Account & Login,31
+2025-12,Exported tag,App & Firmware,56
+2025-12,Exported tag,Audio Quality,54
+2025-12,Exported tag,Billing & Payments,170
+2025-12,Exported tag,Charging & Battery,67
+2025-12,Exported tag,Connectivity,81
+2025-12,Exported tag,Delivery & Shipping,136
+2025-12,Exported tag,Other,114
+2025-12,Exported tag,Product Enquiry,38
+2025-12,Exported tag,Returns & Refunds,82
+2025-12,Exported tag,Warranty & Repair,40
+2025-12,First assigned team,Billing,170
+2025-12,First assigned team,Chat Frontline,220
+2025-12,First assigned team,Email Frontline,166
+2025-12,First assigned team,Escalations & Warranty,40
+2025-12,First assigned team,Logistics,136
+2025-12,First assigned team,Returns Desk,82
+2025-12,First assigned team,Voice Frontline,55
+2025-12,Opening + closing text,Account & Login,26
+2025-12,Opening + closing text,App & Firmware,53
+2025-12,Opening + closing text,Audio Quality,42
+2025-12,Opening + closing text,Billing & Payments,89
+2025-12,Opening + closing text,Cancellation & Order Changes,43
+2025-12,Opening + closing text,Charging & Battery,60
+2025-12,Opening + closing text,Connectivity,63
+2025-12,Opening + closing text,Delivery & Shipping,192
+2025-12,Opening + closing text,Hardware & Controls,5
+2025-12,Opening + closing text,Needs review,151
+2025-12,Opening + closing text,Product Enquiry,37
+2025-12,Opening + closing text,Returns & Refunds,81
+2025-12,Opening + closing text,Warranty & Repair,27
+2025-12,Opening text,Account & Login,17
+2025-12,Opening text,App & Firmware,38
+2025-12,Opening text,Audio Quality,24
+2025-12,Opening text,Billing & Payments,65
+2025-12,Opening text,Cancellation & Order Changes,34
+2025-12,Opening text,Charging & Battery,49
+2025-12,Opening text,Connectivity,33
+2025-12,Opening text,Delivery & Shipping,146
+2025-12,Opening text,Hardware & Controls,3
+2025-12,Opening text,Needs review,344
+2025-12,Opening text,Product Enquiry,16
+2025-12,Opening text,Returns & Refunds,76
+2025-12,Opening text,Warranty & Repair,24
+2025-12,Recorded agent team,Billing,128
+2025-12,Recorded agent team,Chat Frontline,227
+2025-12,Recorded agent team,Email Frontline,158
+2025-12,Recorded agent team,Escalations & Warranty,48
+2025-12,Recorded agent team,Logistics,177
+2025-12,Recorded agent team,Returns Desk,88
+2025-12,Recorded agent team,Voice Frontline,43
+2026-01,Exported tag,Account & Login,24
+2026-01,Exported tag,App & Firmware,44
+2026-01,Exported tag,Audio Quality,43
+2026-01,Exported tag,Billing & Payments,143
+2026-01,Exported tag,Charging & Battery,76
+2026-01,Exported tag,Connectivity,94
+2026-01,Exported tag,Delivery & Shipping,121
+2026-01,Exported tag,Other,107
+2026-01,Exported tag,Product Enquiry,49
+2026-01,Exported tag,Returns & Refunds,70
+2026-01,Exported tag,Warranty & Repair,41
+2026-01,First assigned team,Billing,143
+2026-01,First assigned team,Chat Frontline,233
+2026-01,First assigned team,Email Frontline,132
+2026-01,First assigned team,Escalations & Warranty,41
+2026-01,First assigned team,Logistics,121
+2026-01,First assigned team,Returns Desk,70
+2026-01,First assigned team,Voice Frontline,72
+2026-01,Opening + closing text,Account & Login,22
+2026-01,Opening + closing text,App & Firmware,36
+2026-01,Opening + closing text,Audio Quality,30
+2026-01,Opening + closing text,Billing & Payments,90
+2026-01,Opening + closing text,Cancellation & Order Changes,43
+2026-01,Opening + closing text,Charging & Battery,75
+2026-01,Opening + closing text,Connectivity,82
+2026-01,Opening + closing text,Delivery & Shipping,155
+2026-01,Opening + closing text,Hardware & Controls,1
+2026-01,Opening + closing text,Needs review,132
+2026-01,Opening + closing text,Product Enquiry,52
+2026-01,Opening + closing text,Returns & Refunds,75
+2026-01,Opening + closing text,Warranty & Repair,19
+2026-01,Opening text,Account & Login,15
+2026-01,Opening text,App & Firmware,25
+2026-01,Opening text,Audio Quality,19
+2026-01,Opening text,Billing & Payments,70
+2026-01,Opening text,Cancellation & Order Changes,36
+2026-01,Opening text,Charging & Battery,54
+2026-01,Opening text,Connectivity,43
+2026-01,Opening text,Delivery & Shipping,134
+2026-01,Opening text,Needs review,318
+2026-01,Opening text,Product Enquiry,20
+2026-01,Opening text,Returns & Refunds,61
+2026-01,Opening text,Warranty & Repair,17
+2026-01,Recorded agent team,Billing,115
+2026-01,Recorded agent team,Chat Frontline,225
+2026-01,Recorded agent team,Email Frontline,126
+2026-01,Recorded agent team,Escalations & Warranty,48
+2026-01,Recorded agent team,Logistics,160
+2026-01,Recorded agent team,Returns Desk,75
+2026-01,Recorded agent team,Voice Frontline,63
+2026-02,Exported tag,Account & Login,29
+2026-02,Exported tag,App & Firmware,54
+2026-02,Exported tag,Audio Quality,32
+2026-02,Exported tag,Billing & Payments,148
+2026-02,Exported tag,Charging & Battery,46
+2026-02,Exported tag,Connectivity,72
+2026-02,Exported tag,Delivery & Shipping,117
+2026-02,Exported tag,Other,109
+2026-02,Exported tag,Product Enquiry,34
+2026-02,Exported tag,Returns & Refunds,58
+2026-02,Exported tag,Warranty & Repair,34
+2026-02,First assigned team,Billing,148
+2026-02,First assigned team,Chat Frontline,198
+2026-02,First assigned team,Email Frontline,125
+2026-02,First assigned team,Escalations & Warranty,34
+2026-02,First assigned team,Logistics,117
+2026-02,First assigned team,Returns Desk,58
+2026-02,First assigned team,Voice Frontline,53
+2026-02,Opening + closing text,Account & Login,27
+2026-02,Opening + closing text,App & Firmware,54
+2026-02,Opening + closing text,Audio Quality,30
+2026-02,Opening + closing text,Billing & Payments,97
+2026-02,Opening + closing text,Cancellation & Order Changes,39
+2026-02,Opening + closing text,Charging & Battery,45
+2026-02,Opening + closing text,Connectivity,61
+2026-02,Opening + closing text,Delivery & Shipping,154
+2026-02,Opening + closing text,Hardware & Controls,2
+2026-02,Opening + closing text,Needs review,104
+2026-02,Opening + closing text,Product Enquiry,34
+2026-02,Opening + closing text,Returns & Refunds,62
+2026-02,Opening + closing text,Warranty & Repair,24
+2026-02,Opening text,Account & Login,17
+2026-02,Opening text,App & Firmware,36
+2026-02,Opening text,Audio Quality,18
+2026-02,Opening text,Billing & Payments,82
+2026-02,Opening text,Cancellation & Order Changes,34
+2026-02,Opening text,Charging & Battery,36
+2026-02,Opening text,Connectivity,28
+2026-02,Opening text,Delivery & Shipping,121
+2026-02,Opening text,Hardware & Controls,3
+2026-02,Opening text,Needs review,266
+2026-02,Opening text,Product Enquiry,17
+2026-02,Opening text,Returns & Refunds,53
+2026-02,Opening text,Warranty & Repair,22
+2026-02,Recorded agent team,Billing,103
+2026-02,Recorded agent team,Chat Frontline,216
+2026-02,Recorded agent team,Email Frontline,109
+2026-02,Recorded agent team,Escalations & Warranty,40
+2026-02,Recorded agent team,Logistics,152
+2026-02,Recorded agent team,Returns Desk,65
+2026-02,Recorded agent team,Voice Frontline,48
+2026-03,Exported tag,Account & Login,28
+2026-03,Exported tag,App & Firmware,46
+2026-03,Exported tag,Audio Quality,50
+2026-03,Exported tag,Billing & Payments,159
+2026-03,Exported tag,Charging & Battery,54
+2026-03,Exported tag,Connectivity,66
+2026-03,Exported tag,Delivery & Shipping,125
+2026-03,Exported tag,Other,118
+2026-03,Exported tag,Product Enquiry,30
+2026-03,Exported tag,Returns & Refunds,71
+2026-03,Exported tag,Warranty & Repair,33
+2026-03,First assigned team,Billing,159
+2026-03,First assigned team,Chat Frontline,214
+2026-03,First assigned team,Email Frontline,125
+2026-03,First assigned team,Escalations & Warranty,33
+2026-03,First assigned team,Logistics,125
+2026-03,First assigned team,Returns Desk,71
+2026-03,First assigned team,Voice Frontline,53
+2026-03,Opening + closing text,Account & Login,25
+2026-03,Opening + closing text,App & Firmware,39
+2026-03,Opening + closing text,Audio Quality,41
+2026-03,Opening + closing text,Billing & Payments,101
+2026-03,Opening + closing text,Cancellation & Order Changes,32
+2026-03,Opening + closing text,Charging & Battery,58
+2026-03,Opening + closing text,Connectivity,71
+2026-03,Opening + closing text,Delivery & Shipping,174
+2026-03,Opening + closing text,Hardware & Controls,3
+2026-03,Opening + closing text,Needs review,105
+2026-03,Opening + closing text,Product Enquiry,33
+2026-03,Opening + closing text,Returns & Refunds,79
+2026-03,Opening + closing text,Warranty & Repair,19
+2026-03,Opening text,Account & Login,14
+2026-03,Opening text,App & Firmware,31
+2026-03,Opening text,Audio Quality,23
+2026-03,Opening text,Billing & Payments,76
+2026-03,Opening text,Cancellation & Order Changes,22
+2026-03,Opening text,Charging & Battery,40
+2026-03,Opening text,Connectivity,32
+2026-03,Opening text,Delivery & Shipping,138
+2026-03,Opening text,Hardware & Controls,3
+2026-03,Opening text,Needs review,304
+2026-03,Opening text,Product Enquiry,12
+2026-03,Opening text,Returns & Refunds,67
+2026-03,Opening text,Warranty & Repair,18
+2026-03,Recorded agent team,Billing,131
+2026-03,Recorded agent team,Chat Frontline,213
+2026-03,Recorded agent team,Email Frontline,118
+2026-03,Recorded agent team,Escalations & Warranty,38
+2026-03,Recorded agent team,Logistics,159
+2026-03,Recorded agent team,Returns Desk,77
+2026-03,Recorded agent team,Voice Frontline,44
+2026-04,Exported tag,Account & Login,24
+2026-04,Exported tag,App & Firmware,57
+2026-04,Exported tag,Audio Quality,39
+2026-04,Exported tag,Billing & Payments,178
+2026-04,Exported tag,Charging & Battery,69
+2026-04,Exported tag,Connectivity,89
+2026-04,Exported tag,Delivery & Shipping,122
+2026-04,Exported tag,Other,119
+2026-04,Exported tag,Product Enquiry,37
+2026-04,Exported tag,Returns & Refunds,60
+2026-04,Exported tag,Warranty & Repair,38
+2026-04,First assigned team,Billing,178
+2026-04,First assigned team,Chat Frontline,237
+2026-04,First assigned team,Email Frontline,126
+2026-04,First assigned team,Escalations & Warranty,38
+2026-04,First assigned team,Logistics,122
+2026-04,First assigned team,Returns Desk,60
+2026-04,First assigned team,Voice Frontline,71
+2026-04,Opening + closing text,Account & Login,22
+2026-04,Opening + closing text,App & Firmware,54
+2026-04,Opening + closing text,Audio Quality,28
+2026-04,Opening + closing text,Billing & Payments,111
+2026-04,Opening + closing text,Cancellation & Order Changes,48
+2026-04,Opening + closing text,Charging & Battery,63
+2026-04,Opening + closing text,Connectivity,74
+2026-04,Opening + closing text,Delivery & Shipping,165
+2026-04,Opening + closing text,Hardware & Controls,3
+2026-04,Opening + closing text,Needs review,144
+2026-04,Opening + closing text,Product Enquiry,39
+2026-04,Opening + closing text,Returns & Refunds,61
+2026-04,Opening + closing text,Warranty & Repair,20
+2026-04,Opening text,Account & Login,14
+2026-04,Opening text,App & Firmware,34
+2026-04,Opening text,Audio Quality,16
+2026-04,Opening text,Billing & Payments,86
+2026-04,Opening text,Cancellation & Order Changes,36
+2026-04,Opening text,Charging & Battery,52
+2026-04,Opening text,Connectivity,45
+2026-04,Opening text,Delivery & Shipping,127
+2026-04,Opening text,Hardware & Controls,3
+2026-04,Opening text,Needs review,337
+2026-04,Opening text,Product Enquiry,14
+2026-04,Opening text,Returns & Refunds,49
+2026-04,Opening text,Warranty & Repair,19
+2026-04,Recorded agent team,Billing,137
+2026-04,Recorded agent team,Chat Frontline,237
+2026-04,Recorded agent team,Email Frontline,113
+2026-04,Recorded agent team,Escalations & Warranty,48
+2026-04,Recorded agent team,Logistics,169
+2026-04,Recorded agent team,Returns Desk,67
+2026-04,Recorded agent team,Voice Frontline,61
+2026-05,Exported tag,Account & Login,31
+2026-05,Exported tag,App & Firmware,44
+2026-05,Exported tag,Audio Quality,45
+2026-05,Exported tag,Billing & Payments,144
+2026-05,Exported tag,Charging & Battery,64
+2026-05,Exported tag,Connectivity,61
+2026-05,Exported tag,Delivery & Shipping,132
+2026-05,Exported tag,Other,114
+2026-05,Exported tag,Product Enquiry,34
+2026-05,Exported tag,Returns & Refunds,53
+2026-05,Exported tag,Warranty & Repair,34
+2026-05,First assigned team,Billing,144
+2026-05,First assigned team,Chat Frontline,206
+2026-05,First assigned team,Email Frontline,114
+2026-05,First assigned team,Escalations & Warranty,34
+2026-05,First assigned team,Logistics,132
+2026-05,First assigned team,Returns Desk,53
+2026-05,First assigned team,Voice Frontline,73
+2026-05,Opening + closing text,Account & Login,23
+2026-05,Opening + closing text,App & Firmware,45
+2026-05,Opening + closing text,Audio Quality,37
+2026-05,Opening + closing text,Billing & Payments,99
+2026-05,Opening + closing text,Cancellation & Order Changes,36
+2026-05,Opening + closing text,Charging & Battery,56
+2026-05,Opening + closing text,Connectivity,56
+2026-05,Opening + closing text,Delivery & Shipping,169
+2026-05,Opening + closing text,Hardware & Controls,4
+2026-05,Opening + closing text,Needs review,108
+2026-05,Opening + closing text,Product Enquiry,38
+2026-05,Opening + closing text,Returns & Refunds,64
+2026-05,Opening + closing text,Warranty & Repair,21
+2026-05,Opening text,Account & Login,11
+2026-05,Opening text,App & Firmware,36
+2026-05,Opening text,Audio Quality,26
+2026-05,Opening text,Billing & Payments,85
+2026-05,Opening text,Cancellation & Order Changes,28
+2026-05,Opening text,Charging & Battery,38
+2026-05,Opening text,Connectivity,27
+2026-05,Opening text,Delivery & Shipping,121
+2026-05,Opening text,Hardware & Controls,3
+2026-05,Opening text,Needs review,288
+2026-05,Opening text,Product Enquiry,16
+2026-05,Opening text,Returns & Refunds,57
+2026-05,Opening text,Warranty & Repair,20
+2026-05,Recorded agent team,Billing,108
+2026-05,Recorded agent team,Chat Frontline,214
+2026-05,Recorded agent team,Email Frontline,105
+2026-05,Recorded agent team,Escalations & Warranty,39
+2026-05,Recorded agent team,Logistics,165
+2026-05,Recorded agent team,Returns Desk,60
+2026-05,Recorded agent team,Voice Frontline,65
+2026-06,Exported tag,Account & Login,31
+2026-06,Exported tag,App & Firmware,47
+2026-06,Exported tag,Audio Quality,48
+2026-06,Exported tag,Billing & Payments,128
+2026-06,Exported tag,Charging & Battery,74
+2026-06,Exported tag,Connectivity,71
+2026-06,Exported tag,Delivery & Shipping,119
+2026-06,Exported tag,Other,100
+2026-06,Exported tag,Product Enquiry,43
+2026-06,Exported tag,Returns & Refunds,73
+2026-06,Exported tag,Warranty & Repair,42
+2026-06,First assigned team,Billing,128
+2026-06,First assigned team,Chat Frontline,205
+2026-06,First assigned team,Email Frontline,131
+2026-06,First assigned team,Escalations & Warranty,42
+2026-06,First assigned team,Logistics,119
+2026-06,First assigned team,Returns Desk,73
+2026-06,First assigned team,Voice Frontline,78
+2026-06,Opening + closing text,Account & Login,31
+2026-06,Opening + closing text,App & Firmware,42
+2026-06,Opening + closing text,Audio Quality,42
+2026-06,Opening + closing text,Billing & Payments,83
+2026-06,Opening + closing text,Cancellation & Order Changes,37
+2026-06,Opening + closing text,Charging & Battery,67
+2026-06,Opening + closing text,Connectivity,64
+2026-06,Opening + closing text,Delivery & Shipping,150
+2026-06,Opening + closing text,Hardware & Controls,10
+2026-06,Opening + closing text,Needs review,107
+2026-06,Opening + closing text,Product Enquiry,40
+2026-06,Opening + closing text,Returns & Refunds,78
+2026-06,Opening + closing text,Warranty & Repair,25
+2026-06,Opening text,Account & Login,19
+2026-06,Opening text,App & Firmware,29
+2026-06,Opening text,Audio Quality,26
+2026-06,Opening text,Billing & Payments,69
+2026-06,Opening text,Cancellation & Order Changes,32
+2026-06,Opening text,Charging & Battery,50
+2026-06,Opening text,Connectivity,34
+2026-06,Opening text,Delivery & Shipping,119
+2026-06,Opening text,Hardware & Controls,8
+2026-06,Opening text,Needs review,284
+2026-06,Opening text,Product Enquiry,19
+2026-06,Opening text,Returns & Refunds,64
+2026-06,Opening text,Warranty & Repair,23
+2026-06,Recorded agent team,Billing,97
+2026-06,Recorded agent team,Chat Frontline,211
+2026-06,Recorded agent team,Email Frontline,112
+2026-06,Recorded agent team,Escalations & Warranty,57
+2026-06,Recorded agent team,Logistics,158
+2026-06,Recorded agent team,Returns Desk,79
+2026-06,Recorded agent team,Voice Frontline,62

@@ -1,0 +1,549 @@
+{
+  "sample_size": 100,
+  "sampling": "Seeded simple random sample (seed 20261004) from 11,541 reporting-window rows after excluding 100 previously viewed development records; uniform ticket sampling, no category balancing.",
+  "reviewer": "ChatGPT/Codex assistant; manually read customer opening and closing note with exported tags and teams hidden. Reviewed labels assigned before computing frozen-model predictions. Not independent human ground truth.",
+  "feature_mode": "Opening text only; reviewed labels may use closing note to establish root issue. This exposes opening-text ambiguity rather than removing it.",
+  "retrospective": {
+    "accepted": 85,
+    "abstained": 15,
+    "wrong_accepted": 1,
+    "coverage": 0.85,
+    "error_rate_among_accepted": 0.011764705882352941,
+    "wrong_accepted_wilson_95_interval": [
+      0.0021,
+      0.0637
+    ],
+    "note": "Opening plus closing notes; disagreements abstain. These figures are retrospective only."
+  },
+  "model_sha256": "83477d8aab86ee0e75a0aa58a683bfe65630c0ad9a35a1ac14c4997f95be639e",
+  "accepted": 61,
+  "abstained": 39,
+  "coverage": 0.61,
+  "wrong_accepted": 3,
+  "error_rate_among_accepted": 0.04918032786885246,
+  "wrong_accepted_wilson_95_interval": [
+    0.0169,
+    0.1349
+  ],
+  "errors_plus_abstentions": 42,
+  "non_correct_or_review_rate": 0.42,
+  "per_category": {
+    "Warranty & Repair": {
+      "n": 5,
+      "correct": 4,
+      "abstained": 1
+    },
+    "Delivery & Shipping": {
+      "n": 30,
+      "correct": 18,
+      "abstained": 12
+    },
+    "Product Enquiry": {
+      "n": 12,
+      "correct": 7,
+      "abstained": 5
+    },
+    "Billing & Payments": {
+      "n": 12,
+      "correct": 7,
+      "abstained": 5
+    },
+    "Returns & Refunds": {
+      "n": 10,
+      "correct": 6,
+      "abstained": 4
+    },
+    "Connectivity": {
+      "n": 5,
+      "correct": 2,
+      "abstained": 3
+    },
+    "Charging & Battery": {
+      "n": 8,
+      "correct": 2,
+      "abstained": 6
+    },
+    "Account & Login": {
+      "n": 3,
+      "correct": 2,
+      "abstained": 1
+    },
+    "Audio Quality": {
+      "n": 2,
+      "correct": 2,
+      "abstained": 0
+    },
+    "Cancellation & Order Changes": {
+      "n": 9,
+      "correct": 5,
+      "abstained": 1
+    },
+    "App & Firmware": {
+      "n": 3,
+      "correct": 3,
+      "abstained": 0
+    },
+    "Hardware & Controls": {
+      "n": 1,
+      "correct": 0,
+      "abstained": 1
+    }
+  },
+  "confusion": [
+    {
+      "reviewed": "Account & Login",
+      "predicted": "Account & Login",
+      "count": 2
+    },
+    {
+      "reviewed": "Account & Login",
+      "predicted": "Needs review",
+      "count": 1
+    },
+    {
+      "reviewed": "App & Firmware",
+      "predicted": "App & Firmware",
+      "count": 3
+    },
+    {
+      "reviewed": "Audio Quality",
+      "predicted": "Audio Quality",
+      "count": 2
+    },
+    {
+      "reviewed": "Billing & Payments",
+      "predicted": "Billing & Payments",
+      "count": 7
+    },
+    {
+      "reviewed": "Billing & Payments",
+      "predicted": "Needs review",
+      "count": 5
+    },
+    {
+      "reviewed": "Cancellation & Order Changes",
+      "predicted": "Cancellation & Order Changes",
+      "count": 5
+    },
+    {
+      "reviewed": "Cancellation & Order Changes",
+      "predicted": "Delivery & Shipping",
+      "count": 3
+    },
+    {
+      "reviewed": "Cancellation & Order Changes",
+      "predicted": "Needs review",
+      "count": 1
+    },
+    {
+      "reviewed": "Charging & Battery",
+      "predicted": "Charging & Battery",
+      "count": 2
+    },
+    {
+      "reviewed": "Charging & Battery",
+      "predicted": "Needs review",
+      "count": 6
+    },
+    {
+      "reviewed": "Connectivity",
+      "predicted": "Connectivity",
+      "count": 2
+    },
+    {
+      "reviewed": "Connectivity",
+      "predicted": "Needs review",
+      "count": 3
+    },
+    {
+      "reviewed": "Delivery & Shipping",
+      "predicted": "Delivery & Shipping",
+      "count": 18
+    },
+    {
+      "reviewed": "Delivery & Shipping",
+      "predicted": "Needs review",
+      "count": 12
+    },
+    {
+      "reviewed": "Hardware & Controls",
+      "predicted": "Needs review",
+      "count": 1
+    },
+    {
+      "reviewed": "Product Enquiry",
+      "predicted": "Needs review",
+      "count": 5
+    },
+    {
+      "reviewed": "Product Enquiry",
+      "predicted": "Product Enquiry",
+      "count": 7
+    },
+    {
+      "reviewed": "Returns & Refunds",
+      "predicted": "Needs review",
+      "count": 4
+    },
+    {
+      "reviewed": "Returns & Refunds",
+      "predicted": "Returns & Refunds",
+      "count": 6
+    },
+    {
+      "reviewed": "Warranty & Repair",
+      "predicted": "Needs review",
+      "count": 1
+    },
+    {
+      "reviewed": "Warranty & Repair",
+      "predicted": "Warranty & Repair",
+      "count": 4
+    }
+  ],
+  "failure_examples": [
+    {
+      "reviewed_category": "Warranty & Repair",
+      "predicted_category": "Needs review",
+      "suggested_category": "Warranty & Repair",
+      "score": 0.2653,
+      "margin": 0.1436,
+      "sample_case_id": "review-case-1"
+    },
+    {
+      "reviewed_category": "Product Enquiry",
+      "predicted_category": "Needs review",
+      "suggested_category": "Account & Login",
+      "score": 0.1581,
+      "margin": 0.003,
+      "sample_case_id": "review-case-2"
+    },
+    {
+      "reviewed_category": "Billing & Payments",
+      "predicted_category": "Needs review",
+      "suggested_category": "Account & Login",
+      "score": 0.1824,
+      "margin": 0.0311,
+      "sample_case_id": "review-case-3"
+    },
+    {
+      "reviewed_category": "Delivery & Shipping",
+      "predicted_category": "Needs review",
+      "suggested_category": "Delivery & Shipping",
+      "score": 0.2286,
+      "margin": 0.0627,
+      "sample_case_id": "review-case-4"
+    },
+    {
+      "reviewed_category": "Delivery & Shipping",
+      "predicted_category": "Needs review",
+      "suggested_category": "Delivery & Shipping",
+      "score": 0.1415,
+      "margin": 0.0371,
+      "sample_case_id": "review-case-5"
+    },
+    {
+      "reviewed_category": "Connectivity",
+      "predicted_category": "Needs review",
+      "suggested_category": "Audio Quality",
+      "score": 0.1589,
+      "margin": 0.0142,
+      "sample_case_id": "review-case-6"
+    },
+    {
+      "reviewed_category": "Billing & Payments",
+      "predicted_category": "Needs review",
+      "suggested_category": "Billing & Payments",
+      "score": 0.1552,
+      "margin": 0.0077,
+      "sample_case_id": "review-case-7"
+    },
+    {
+      "reviewed_category": "Charging & Battery",
+      "predicted_category": "Needs review",
+      "suggested_category": "Charging & Battery",
+      "score": 0.2552,
+      "margin": 0.1027,
+      "sample_case_id": "review-case-8"
+    },
+    {
+      "reviewed_category": "Charging & Battery",
+      "predicted_category": "Needs review",
+      "suggested_category": "Charging & Battery",
+      "score": 0.2073,
+      "margin": 0.0733,
+      "sample_case_id": "review-case-9"
+    },
+    {
+      "reviewed_category": "Charging & Battery",
+      "predicted_category": "Needs review",
+      "suggested_category": "Cancellation & Order Changes",
+      "score": 0.1419,
+      "margin": 0.0014,
+      "sample_case_id": "review-case-10"
+    },
+    {
+      "reviewed_category": "Account & Login",
+      "predicted_category": "Needs review",
+      "suggested_category": "Cancellation & Order Changes",
+      "score": 0.2139,
+      "margin": 0.0233,
+      "sample_case_id": "review-case-11"
+    },
+    {
+      "reviewed_category": "Billing & Payments",
+      "predicted_category": "Needs review",
+      "suggested_category": "Billing & Payments",
+      "score": 0.3692,
+      "margin": 0.0278,
+      "sample_case_id": "review-case-12"
+    },
+    {
+      "reviewed_category": "Billing & Payments",
+      "predicted_category": "Needs review",
+      "suggested_category": "Returns & Refunds",
+      "score": 0.2239,
+      "margin": 0.1033,
+      "sample_case_id": "review-case-13"
+    },
+    {
+      "reviewed_category": "Product Enquiry",
+      "predicted_category": "Needs review",
+      "suggested_category": "Billing & Payments",
+      "score": 0.1559,
+      "margin": 0.0026,
+      "sample_case_id": "review-case-14"
+    },
+    {
+      "reviewed_category": "Cancellation & Order Changes",
+      "predicted_category": "Delivery & Shipping",
+      "suggested_category": "Delivery & Shipping",
+      "score": 0.3199,
+      "margin": 0.1326,
+      "sample_case_id": "review-case-15"
+    },
+    {
+      "reviewed_category": "Returns & Refunds",
+      "predicted_category": "Needs review",
+      "suggested_category": "Billing & Payments",
+      "score": 0.1429,
+      "margin": 0.0116,
+      "sample_case_id": "review-case-16"
+    },
+    {
+      "reviewed_category": "Returns & Refunds",
+      "predicted_category": "Needs review",
+      "suggested_category": "Returns & Refunds",
+      "score": 0.2414,
+      "margin": 0.02,
+      "sample_case_id": "review-case-17"
+    },
+    {
+      "reviewed_category": "Returns & Refunds",
+      "predicted_category": "Needs review",
+      "suggested_category": "Billing & Payments",
+      "score": 0.2015,
+      "margin": 0.0001,
+      "sample_case_id": "review-case-18"
+    },
+    {
+      "reviewed_category": "Delivery & Shipping",
+      "predicted_category": "Needs review",
+      "suggested_category": "Delivery & Shipping",
+      "score": 0.2413,
+      "margin": 0.0107,
+      "sample_case_id": "review-case-19"
+    },
+    {
+      "reviewed_category": "Charging & Battery",
+      "predicted_category": "Needs review",
+      "suggested_category": "Charging & Battery",
+      "score": 0.1558,
+      "margin": 0.0208,
+      "sample_case_id": "review-case-20"
+    },
+    {
+      "reviewed_category": "Product Enquiry",
+      "predicted_category": "Needs review",
+      "suggested_category": "Charging & Battery",
+      "score": 0.1377,
+      "margin": 0.0324,
+      "sample_case_id": "review-case-21"
+    },
+    {
+      "reviewed_category": "Connectivity",
+      "predicted_category": "Needs review",
+      "suggested_category": "Warranty & Repair",
+      "score": 0.1497,
+      "margin": 0.0007,
+      "sample_case_id": "review-case-22"
+    },
+    {
+      "reviewed_category": "Product Enquiry",
+      "predicted_category": "Needs review",
+      "suggested_category": "Product Enquiry",
+      "score": 0.2662,
+      "margin": 0.147,
+      "sample_case_id": "review-case-23"
+    },
+    {
+      "reviewed_category": "Delivery & Shipping",
+      "predicted_category": "Needs review",
+      "suggested_category": "Delivery & Shipping",
+      "score": 0.2099,
+      "margin": 0.0977,
+      "sample_case_id": "review-case-24"
+    },
+    {
+      "reviewed_category": "Delivery & Shipping",
+      "predicted_category": "Needs review",
+      "suggested_category": "Delivery & Shipping",
+      "score": 0.1565,
+      "margin": 0.0055,
+      "sample_case_id": "review-case-25"
+    },
+    {
+      "reviewed_category": "Billing & Payments",
+      "predicted_category": "Needs review",
+      "suggested_category": "Billing & Payments",
+      "score": 0.2002,
+      "margin": 0.0028,
+      "sample_case_id": "review-case-26"
+    },
+    {
+      "reviewed_category": "Product Enquiry",
+      "predicted_category": "Needs review",
+      "suggested_category": "Billing & Payments",
+      "score": 0.146,
+      "margin": 0.0004,
+      "sample_case_id": "review-case-27"
+    },
+    {
+      "reviewed_category": "Delivery & Shipping",
+      "predicted_category": "Needs review",
+      "suggested_category": "Delivery & Shipping",
+      "score": 0.2427,
+      "margin": 0.066,
+      "sample_case_id": "review-case-28"
+    },
+    {
+      "reviewed_category": "Delivery & Shipping",
+      "predicted_category": "Needs review",
+      "suggested_category": "Billing & Payments",
+      "score": 0.2417,
+      "margin": 0.0189,
+      "sample_case_id": "review-case-29"
+    },
+    {
+      "reviewed_category": "Returns & Refunds",
+      "predicted_category": "Needs review",
+      "suggested_category": "Returns & Refunds",
+      "score": 0.2553,
+      "margin": 0.0629,
+      "sample_case_id": "review-case-30"
+    },
+    {
+      "reviewed_category": "Delivery & Shipping",
+      "predicted_category": "Needs review",
+      "suggested_category": "Delivery & Shipping",
+      "score": 0.167,
+      "margin": 0.0217,
+      "sample_case_id": "review-case-31"
+    },
+    {
+      "reviewed_category": "Charging & Battery",
+      "predicted_category": "Needs review",
+      "suggested_category": "Charging & Battery",
+      "score": 0.2503,
+      "margin": 0.0117,
+      "sample_case_id": "review-case-32"
+    },
+    {
+      "reviewed_category": "Connectivity",
+      "predicted_category": "Needs review",
+      "suggested_category": "Connectivity",
+      "score": 0.208,
+      "margin": 0.041,
+      "sample_case_id": "review-case-33"
+    },
+    {
+      "reviewed_category": "Cancellation & Order Changes",
+      "predicted_category": "Needs review",
+      "suggested_category": "Cancellation & Order Changes",
+      "score": 0.257,
+      "margin": 0.0008,
+      "sample_case_id": "review-case-34"
+    },
+    {
+      "reviewed_category": "Delivery & Shipping",
+      "predicted_category": "Needs review",
+      "suggested_category": "Billing & Payments",
+      "score": 0.1755,
+      "margin": 0.0274,
+      "sample_case_id": "review-case-35"
+    },
+    {
+      "reviewed_category": "Cancellation & Order Changes",
+      "predicted_category": "Delivery & Shipping",
+      "suggested_category": "Delivery & Shipping",
+      "score": 0.306,
+      "margin": 0.164,
+      "sample_case_id": "review-case-36"
+    },
+    {
+      "reviewed_category": "Charging & Battery",
+      "predicted_category": "Needs review",
+      "suggested_category": "Returns & Refunds",
+      "score": 0.2011,
+      "margin": 0.0717,
+      "sample_case_id": "review-case-37"
+    },
+    {
+      "reviewed_category": "Delivery & Shipping",
+      "predicted_category": "Needs review",
+      "suggested_category": "Cancellation & Order Changes",
+      "score": 0.2073,
+      "margin": 0.0637,
+      "sample_case_id": "review-case-38"
+    },
+    {
+      "reviewed_category": "Delivery & Shipping",
+      "predicted_category": "Needs review",
+      "suggested_category": "Delivery & Shipping",
+      "score": 0.2422,
+      "margin": 0.0794,
+      "sample_case_id": "review-case-39"
+    },
+    {
+      "reviewed_category": "Delivery & Shipping",
+      "predicted_category": "Needs review",
+      "suggested_category": "Billing & Payments",
+      "score": 0.1819,
+      "margin": 0.0286,
+      "sample_case_id": "review-case-40"
+    },
+    {
+      "reviewed_category": "Cancellation & Order Changes",
+      "predicted_category": "Delivery & Shipping",
+      "suggested_category": "Delivery & Shipping",
+      "score": 0.4618,
+      "margin": 0.2463,
+      "sample_case_id": "review-case-41"
+    },
+    {
+      "reviewed_category": "Hardware & Controls",
+      "predicted_category": "Needs review",
+      "suggested_category": "Returns & Refunds",
+      "score": 0.2644,
+      "margin": 0.1499,
+      "sample_case_id": "review-case-42"
+    }
+  ],
+  "limitations": [
+    "Same AI assistant authored classifier and reference labels; correlated interpretation errors are possible.",
+    "No independent Vireo agent adjudication; production accuracy is unproven.",
+    "Small sample; no assurance for classes absent from the sample.",
+    "Synthetic example similarity is not calibrated probability; thresholds are heuristic.",
+    "Repeated templates can make ticket-random validation easier than future, genuinely novel messages."
+  ]
+}
